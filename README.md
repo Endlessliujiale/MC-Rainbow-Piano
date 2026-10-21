@@ -2,6 +2,15 @@
 
 > Minecraft Fabric 1.21.1 钢琴可视化模组 —— 把 MIDI 演奏变成漫天彩虹音符与光带。
 
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-3C8527?style=flat-square)](https://www.minecraft.net/)
+[![Loader](https://img.shields.io/badge/Loader-Fabric-dbb69c?style=flat-square)](https://fabricmc.net/)
+[![License](https://img.shields.io/badge/Code-MIT-blue?style=flat-square)](LICENSE)
+
+> ⚠️ **兼容性：目前仅适配 Minecraft 1.21.1 + Fabric**（需要 Fabric API）。
+> 其他 MC 版本（1.20.x / 1.21.2+ / Forge / NeoForge）**暂不支持**，装上去会直接报错。
+
+**⬇️ 下载：[v0.1.0 Release](https://github.com/Endlessliujiale/MC-Rainbow-Piano/releases/latest)** —— `pianofx-0.1.0-extended-piano.jar`
+
 ![游戏截图](docs/screenshots/01.jpg)
 ![游戏截图](docs/screenshots/02.jpg)
 
@@ -62,9 +71,11 @@
 
 ## 安装
 
+> **版本要求：Minecraft 1.21.1 + Fabric。目前只做了这一个版本，没有 1.20、1.21.2+ 或 Forge 版本。**
+
 1. Minecraft **1.21.1** + **Fabric Loader**（≥0.16.9）
 2. 需要 **Fabric API**
-3. 把 `pianofx-0.1.0-extended-piano.jar` 放进 `.minecraft/mods/`
+3. 从 **[Releases](https://github.com/Endlessliujiale/MC-Rainbow-Piano/releases/latest)** 下载 `pianofx-0.1.0-extended-piano.jar`，放进 `.minecraft/mods/`
 4. 纯客户端模组，单人/联机都只需装在自己这边
 
 > 同一实例只保留一个 PianoFX 的 jar。
@@ -115,6 +126,8 @@ licenses/                 音源与上游项目的许可证原文
 
 ## 已知限制
 
+- **只支持 Minecraft 1.21.1 + Fabric**：模组元数据里锁定了 `minecraft ~1.21.1`，其他版本装不上；也没有 Forge/NeoForge 版本。
+- **内部 mod id 仍是 `pianofx`**（历史原因），游戏模组列表里显示的名字是「星空钢琴 Sky Piano」，与本仓库名"MC 彩虹钢琴"指的是同一个东西。
 - **音色是采样近似**：Bright Piano 为逐音高渲染的单力度采样（力度只改音量），不是真实多力度音源库；
   另一套 GeneralUser GS 只有 C4 单采样，靠移调，跨八度会有音色差异。
 - **构建链偏"手工"**：如上，没有 Gradle 工程，克隆后不能一键 `build`。
