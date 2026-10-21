@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "pianofx:block/piano" },
+    "facing=south": { "model": "pianofx:block/piano", "y": 180 },
+    "facing=west": { "model": "pianofx:block/piano", "y": 270 },
+    "facing=east": { "model": "pianofx:block/piano", "y": 90 }
+  }
+}

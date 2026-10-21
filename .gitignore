@@ -1,0 +1,25 @@
+# 构建产物
+build/
+dist/
+run/
+test-game/
+verification/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Gradle
+.gradle/
+gradlew
+gradlew.bat
+
+# 本地日志与临时文件
+logs/
+*.log
+*.tmp
+
+# 系统
+.DS_Store
+Thumbs.db

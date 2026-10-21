@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "pianofx",
+  "pattern": [
+    "BBB",
+    "BIB",
+    "L L"
+  ],
+  "key": {
+    "B": { "item": "minecraft:black_concrete" },
+    "I": { "item": "minecraft:iron_ingot" },
+    "L": { "item": "minecraft:stripped_dark_oak_log" }
+  },
+  "result": {
+    "id": "pianofx:piano",
+    "count": 1
+  }
+}

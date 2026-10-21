@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "pianofx",
+  "version": "0.1.0",
+  "name": "星空钢琴 Sky Piano",
+  "description": "导入 MIDI 谱子，音符从钢琴两侧飞出，拖出长弧光带，最终在远处汇聚成画。",
+  "authors": ["PianoFX"],
+  "license": "MIT",
+  "environment": "client",
+  "mixins": [
+    "pianofx.mixins.json"
+  ],
+  "entrypoints": {
+    "main": ["com.pianofx.PianoFX"],
+    "client": ["com.pianofx.client.PianofxClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.9",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

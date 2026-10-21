@@ -1,0 +1,4 @@
+PianoFX audio integration references ExtendedNoteBlock 1.9.1 ClientSoundManager and ActiveSoundFader (Atemukesu, MIT).
+Two unmodified C4 samples from its bundled GeneralUser GS sound pack are included. GeneralUser GS: S. Christian Collins, https://schristiancollins.com/generaluser .
+This is an adapted piano sound module, not the full ExtendedNoteBlock mod. Redstone/network/block features are not included.
+C4 transposition is restricted to +/-12 semitones; the original TimGM6mb multisamples handle other pitches.

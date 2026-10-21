@@ -1,0 +1,1042 @@
+{
+  "bright_piano_0": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/0",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_1": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/1",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_2": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/2",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_3": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/3",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_4": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/4",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_5": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/5",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_6": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/6",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_7": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/7",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_8": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/8",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_9": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/9",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_10": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/10",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_11": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/11",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_12": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/12",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_13": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/13",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_14": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/14",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_15": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/15",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_16": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/16",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_17": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/17",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_18": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/18",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_19": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/19",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_20": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/20",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_21": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/21",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_22": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/22",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_23": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/23",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_24": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/24",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_25": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/25",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_26": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/26",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_27": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/27",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_28": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/28",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_29": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/29",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_30": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/30",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_31": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/31",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_32": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/32",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_33": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/33",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_34": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/34",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_35": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/35",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_36": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/36",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_37": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/37",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_38": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/38",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_39": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/39",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_40": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/40",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_41": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/41",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_42": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/42",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_43": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/43",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_44": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/44",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_45": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/45",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_46": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/46",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_47": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/47",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_48": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/48",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_49": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/49",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_50": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/50",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_51": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/51",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_52": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/52",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_53": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/53",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_54": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/54",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_55": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/55",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_56": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/56",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_57": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/57",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_58": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/58",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_59": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/59",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_60": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/60",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_61": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/61",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_62": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/62",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_63": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/63",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_64": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/64",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_65": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/65",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_66": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/66",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_67": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/67",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_68": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/68",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_69": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/69",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_70": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/70",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_71": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/71",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_72": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/72",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_73": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/73",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_74": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/74",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_75": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/75",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_76": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/76",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_77": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/77",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_78": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/78",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_79": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/79",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_80": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/80",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_81": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/81",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_82": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/82",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_83": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/83",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_84": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/84",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_85": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/85",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_86": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/86",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_87": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/87",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_88": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/88",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_89": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/89",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_90": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/90",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_91": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/91",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_92": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/92",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_93": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/93",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_94": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/94",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_95": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/95",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_96": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/96",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_97": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/97",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_98": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/98",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_99": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/99",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_100": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/100",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_101": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/101",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_102": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/102",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_103": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/103",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_104": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/104",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_105": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/105",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_106": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/106",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_107": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/107",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_108": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/108",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_109": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/109",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_110": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/110",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_111": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/111",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_112": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/112",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_113": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/113",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_114": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/114",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_115": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/115",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_116": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/116",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_117": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/117",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_118": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/118",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_119": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/119",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_120": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/120",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_121": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/121",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_122": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/122",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_123": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/123",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_124": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/124",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_125": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/125",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_126": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/126",
+        "stream": false
+      }
+    ]
+  },
+  "bright_piano_127": {
+    "sounds": [
+      {
+        "name": "pianofx:bright_piano/127",
+        "stream": false
+      }
+    ]
+  },
+  "enb_grand": {
+    "sounds": [
+      {
+        "name": "pianofx:enb/grand_60",
+        "stream": false
+      }
+    ]
+  },
+  "enb_bright": {
+    "sounds": [
+      {
+        "name": "pianofx:enb/bright_60",
+        "stream": false
+      }
+    ]
+  }
+}
